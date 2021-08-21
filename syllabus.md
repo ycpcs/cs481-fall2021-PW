@@ -44,7 +44,7 @@ This project will likely break into 2-3 teams, across 5 people (team members can
 - Backend and Database
 - Possibly Data Visualization
 
-Drs. Druena and Shedlosky will introduce to the Privileged Walk concept during the first week of class.
+Drs. Druen and Shedlosky will introduce to the Privileged Walk concept during the first week of class.
 
 It is highly likely that this will be a two-semester project, spanning both CS481 and CS482.  I highly recommend that you continue working on this project in CS482 in the Spring, as it will provide you with a valuable year-long, comprehensive, client-based, team project experience, and CS482 counts as a CS elective toward your CS major requirements.
 

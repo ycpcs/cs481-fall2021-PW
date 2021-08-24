@@ -4,7 +4,7 @@ course_number: CS481-PW
 title: Schedule
 ---
 
-This is the course schedule for CS 481-PW (YCAS Radio Telescope Project).
+This is the course schedule for CS 481-PW (Privilege Walk Project).
 
 **Assignment** | **Due**
 :--------------|:---------

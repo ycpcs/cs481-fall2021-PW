@@ -42,6 +42,8 @@ Use drawings, block diagrams, wire frames, screen captures, as appropriate, to c
 
 You **must** meet with your York College Psychology program clients (Drs. Druen and Shedlosky) to discuss project ideas, tasks, and priorities before you submit and present your formal project proposal.  And certainly feel free to contact your instructor for guidance and clarification on the requirements for this assignment.
 
+Here is a [Privilege Walk document](PrivilegeWalkApplicationDescription.pdf) that Drs. Druen and Shedlosky put together for the team.  It refers to some previous work that was done over this past Summer semester by Brooke Tingley in coordination with Dr. Babcock and Dr. Druen.  I recommend that you review that work to get an idea of the various components and tools that you might want to use for the project, and discuss it with Drs. Druen and Shedlosky.  However, I recommend that you redesign the project from scratch, as there is much more to do than what Brooke was intended to take on.
+
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 
@@ -67,7 +69,7 @@ Your team may add additional labels as desired.
 
 Your third task is for each team member to set up a computing environment with the hardware and software they will need for the project.
 
-You may use the physical space and computing equipment as you see fit.  Please be considerate of the needs of other teams, and please try to keep the environment neat and well-organized.  The front of KEC 118 is reserved for the Privileged Walk team.
+You may use the physical space and computing equipment as you see fit.  Please be considerate of the needs of other teams, and please try to keep the environment neat and well-organized.  The front of KEC 118 is reserved for the Privilege Walk team.
 
 Please note that you are **NOT** required to use one of the provided lab PCs: you can use your own laptop, if you would prefer.  Given the uncertainty of the ongoing Covid-19 pandemic, I **highly** recommend that you work on your own laptops so that any transition to remote learning (if it comes) can be relatively seamless.  We will be conducting in-person meetings via Zoom so that Dr. Druen can attend.  these will occiur in KEC 123, so you'll need to be able to transport your work to that room for demoonstration purposes.
 

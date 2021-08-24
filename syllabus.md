@@ -6,7 +6,7 @@ title: Syllabus
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS 481-PW: Senior Software Design I (Privileged Walk Project)
+## CS 481-PW: Senior Software Design I (Privilege Walk Project)
 
 ## Fall 2021
 
@@ -16,11 +16,11 @@ title: Syllabus
 
 **Meeting Times:**
 
- - **Wednesdays (3:00p-4:15p):** This class session is reserved for you to work as a team, unencumbered by "interference" from the faculty.  We will have potential conflicts for the use of KEC 118 due to having multiple teams giving presentations on alternate days (Wednesdays for Radio Telescope and Fridays for Privileged Walk).  Since the Radio Telescope team has specific hardware that they need to work with, some of it located in KEC 118, that team might take precedence, at times, in which case I will reserve KEC 123 for your use.
+ - **Wednesdays (3:00p-4:15p):** This class session is reserved for you to work as a team, unencumbered by "interference" from the faculty.  We will have potential conflicts for the use of KEC 118 due to having multiple teams giving presentations on alternate days (Wednesdays for Radio Telescope and Fridays for Privilege Walk).  Since the Radio Telescope team has specific hardware that they need to work with, some of it located in KEC 118, that team might take precedence, at times, in which case I will reserve KEC 123 for your use.
  
  - **Fridays (3:00p-4:15p):** This class session is reserved for weekly status updates, assignment presentations, and Milestone presentations.  We will likely meet **in-person** in KEC 123 while also using Zoom for all weekly status updates, assignment presentations, and milestone - unless otherwise noted.  Your York College Psychology clients (Dr. Perri Druen and Dr. Randi Shedlosky) will likely be in attendance at these meetings, as well.  We will be using Zoom from your personal computers so that Dr. Druen can attend (via Zoom).  We'll work this out during the first week of class.  NOTE: It is not unusual for these in-class sessions to run past 4:15 at times, especially during the status reports and milestone presentations.  If you have another class scheduled immediately following this class, please let me know, and I will try to make accomodations. For Milestone presentations, you might need to make accommodations with your other professors.<br>
  
-**Location:** KEC 118 and/or KEC123 (the front 2 benches are reserved for the Privileged Walk team, and the back 2 benches are reserved for the Radio Telescope project).
+**Location:** KEC 118 and/or KEC123 (the front 2 benches are reserved for the Privilege Walk team, and the back 2 benches are reserved for the Radio Telescope project).
  
 **Webpage:**  [https://ycpcs.github.io/cs481-fall2021-PW/](https://ycpcs.github.io/cs481-fall2021-PW/)
 
@@ -37,14 +37,14 @@ title: Syllabus
 
 ### Course Description
 
-This is the first year for the Privileged Walk project, with two faculty members from the York College Psychology program serving as your clients (Dr. Perri Druen and Dr. Randi Shedlosky).  You will be developing this project from scratch, acquiring all of your information for your project proposal, Use Cases and User Stories, and Requirements from your clients.  They will also establish your tasks and priorities in consultation with me, and with your input, as you plan and develop the sprint schedule for your agile development approach.
+This is the first year for the Privilege Walk project, with two faculty members from the York College Psychology program serving as your clients (Dr. Perri Druen and Dr. Randi Shedlosky).  You will be developing this project from scratch, acquiring all of your information for your project proposal, Use Cases and User Stories, and Requirements from your clients.  They will also establish your tasks and priorities in consultation with me, and with your input, as you plan and develop the sprint schedule for your agile development approach.
 
 This project will likely break into 2-3 teams, across 5 people (team members can be on multiple teams):
 - Front End (UI / UX)
 - Backend and Database
 - Possibly Data Visualization
 
-Drs. Druen and Shedlosky will introduce to the Privileged Walk concept during the first week of class.
+Drs. Druen and Shedlosky will introduce to the Privilege Walk concept during the first week of class.
 
 It is highly likely that this will be a two-semester project, spanning both CS481 and CS482.  I highly recommend that you continue working on this project in CS482 in the Spring, as it will provide you with a valuable year-long, comprehensive, client-based, team project experience, and CS482 counts as a CS elective toward your CS major requirements.
 

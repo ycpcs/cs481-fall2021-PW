@@ -1,5 +1,5 @@
 # cs481-fall2021-PW
-CS481 Fall 2021 Course Website for Privileged Walk Project
+CS481 Fall 2021 Course Website for Privilege Walk Project
 ---
 layout: default
 course_number: CS481-102-PW
@@ -7,7 +7,7 @@ title: README
 ---
 
 This is the website for CS481-PW, Fall 2020 at York College of
-Pennsylvania for the Privileged Walk Project.
+Pennsylvania for the Privilege Walk Project.
 
 Unless indicated otherwise, all materials are
 

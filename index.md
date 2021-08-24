@@ -28,9 +28,9 @@ Here are links to two descriptions of the Privilege Walk exercise:
 
 You will be creating an application that will automate and facilitate the Privilege Walk exercise, allowing for individuals and groups to participate in a synchronous, asynchronous, and/or anonymous fashion.  Here are links to two descriptions and instructions fo the Privilege Walk exeercise.
 
-Your clients for this project will be [Dr. Perri Druen](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/druen-perri.php) and [Dr. Randi Shedlosky{(https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/shedlosky-shoemaker-randi.php) from the York College Psychology program.
+Your clients for this project will be [Dr. Perri Druen](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/druen-perri.php) and [Dr. Randi Shedlosky(https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/shedlosky-shoemaker-randi.php) from the York College Psychology program.
 
-As your clients, Drs. Druen and Shedlosky will be providing you with all Requirements for the project, and will also establish the task priorities for your agile development process, in consultation me, and in coordination with the Privilege Walk development team.  THey will also be attending your status meetings, and assignment and Milestone presentations.
+As your clients, Drs. Druen and Shedlosky will be providing you with all Requirements for the project, and will also establish the task priorities for your agile development process, in consultation me, and in coordination with the Privilege Walk development team.  They will also be attending your status meetings, and assignment and Milestone presentations.  You willfind their initial project requirements on the [Assign01-Project Proposal page](.\assign\assign01.html).
 
 This project will run for two semesters: Fall 2021 (CS 481) and Spring 2022 (CS 482).
 

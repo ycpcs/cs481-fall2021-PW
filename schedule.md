@@ -14,4 +14,4 @@ This is the course schedule for CS 481-PW (Privilege Walk Project).
 [Assignment 4: Analysis and Design](assign/assign04.html)                  | Fri, Oct 1st by 3:00pm (prior to class): Presentation during class period
 [Assignment 5: Minimal Working System](assign/assign05.html)               | Fri, Oct 22nd: Milestone 1 Presentation and Demo during class period<br>Sun, Oct 24th by Noon: Mid-Term Peer Evals due
 [Assignment 6: 50% Working System](assign/assign06.html)                   | Fri, Nov 12th: Milestone 2 Presentation and Demo during class period
-[Assignment 7: Final System Presentation and Report](assign/assign07.html) | Sat, Dec 4th by Noon: Draft Report due<br>Wed, Dec 8th, 3:00pm to 5:00pm: Final Milestone Presentation and Demo<br>Sun, Dec 12th by Noon: Final Report and Final Peer Evals due
+[Assignment 7: Final System Presentation and Report](assign/assign07.html) | Sat, Dec 4th by Noon: Draft Report due<br>Fri, Dec 10th, 3:00pm to 5:00pm (KEC 123): Final Milestone Presentation and Demo<br>Sun, Dec 12th by Noon: Final Report and Final Peer Evals due

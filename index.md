@@ -35,6 +35,8 @@ As your clients, Drs. Druen and Shedlosky will be providing you with all Require
 This project will run for two semesters: Fall 2021 (CS 481) and Spring 2022 (CS 482).
 
 ## News
+* 11-18-21: Moved assign07 (Final Presentation and Demo) to Friday, 12-10-21, from 3:00p to 5:00p in KEC 123.
+
 * 8-21-21: All students in CS 481 will be meeting on the first day of class (Weds, 8-25-21) to go over the syllabus and requirements for the course.  The Privilege Walk team will be released early, since their regular meeting time is on Fridays.
 
 * 8-21-21: The Privilege Walk team will meet on a weekly basis for status report, and assignment and Milestone presentations on Fridays in-person in KEC 123.  We will be using Zoom in KEC 123 to allow Dr. Druen to attend the meetings.  Wednesdays will be reserved for team project work days to be arranged amongst yourselves.
